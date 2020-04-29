@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Khalil sdiri - [Github](https://github.com/khalilholberton) / [Twitter](https://twitter.com/khalilsdiri26)  
-
+Amine bouchahda
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
